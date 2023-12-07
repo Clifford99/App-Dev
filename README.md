@@ -1,3 +1,5 @@
 # App-Dev
 My First Respiratory
-*Attack on Titan*
+*Favorite Series*
+1. Attack on Titan
+2. The Witcher
